@@ -1,4 +1,21 @@
 {
+    "Technologies": [
+    {
+      "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+      "Name": "DMS",
+      "Subjects": []
+    },
+        {
+      "Id": "d3ee44dc-f4ff-424b-a3be-3580953fc479",
+      "Name": "Helpline",
+      "Subjects": []
+    },
+        {
+      "Id": "d3ee44dc-f4ff-424b-a3be-3580954ec479",
+      "Name": "SAP",
+      "Subjects": []
+    }
+    ],
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
