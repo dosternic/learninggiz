@@ -4346,7 +4346,7 @@
  },
  {
    "id": "Azubi-Kurse",
-   "Title": "",
+   "Title": "Azubi-Kurse",
    "Description": "Im Zuge des Nachwuchsprogramms für Auszubildene, erhältst Du eine Schulung in den Grundlagen von MS Office, IDA und anderen GIZ-Anwendungen.",
    "Url": "Link folgt!",
    "TechnologyID": "Digitale Basis",
@@ -4357,7 +4357,7 @@
  },
  {
    "id": "Comment utiliser les applications GIZ",
-   "Title": "",
+   "Title": "Comment utiliser les applications GIZ",
    "Description": "Dieses IDA Wiki ist eine Aufbereitung verschiedener Angebote und Lerninhalte zu GIZ-internen digitalen Anwendungen, wie z.B. Excellisten, YouTube-Videos, PDF-Anleitungen etc. ",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/1392/Pages/Wiki/How%20to%20use%20GIZ-Apps.aspx",
    "TechnologyID": "Base numérique",
@@ -4368,7 +4368,7 @@
  },
  {
    "id": "Cours sur la culture numérique de Microsoft",
-   "Title": "",
+   "Title": "Cours sur la culture numérique de Microsoft",
    "Description": "Folgende Kurse vermitteln grundlegendes Wissen zu Computerkonzepten und -kenntnissen, um Computertechnologie für den Alltagsgebrauch anwenden zu können.\nVerfügbare Kurse:\n- Grundlagen;\n- Internet, Cloud, Web; \n- Produktivitätsprogramme;\n- Computersicherheit und Datenschutz; \n- Leben in der digitalen Welt",
    "Url": "https://www.microsoft.com/de-de/DigitalLiteracy/default.aspx",
    "TechnologyID": "Digitale Basis",
@@ -4379,7 +4379,7 @@
  },
  {
    "id": "Cours sur la culture numérique de Microsoft",
-   "Title": "",
+   "Title": "Cours sur la culture numérique de Microsoft",
    "Description": "Folgende Kurse vermitteln grundlegendes Wissen zu Computerkonzepten und -kenntnissen, um Computertechnologie für den Alltagsgebrauch anwenden zu können.\nVerfügbare Kurse:\n- Grundlagen;\n- Internet, Cloud, Web; \n- Produktivitätsprogramme;\n- Computersicherheit und Datenschutz; \n- Leben in der digitalen Welt",
    "Url": "https://www.microsoft.com/de-de/DigitalLiteracy/default.aspx",
    "TechnologyID": "Digital Basis",
@@ -4390,7 +4390,7 @@
  },
  {
    "id": "Cours sur la culture numérique de Microsoft",
-   "Title": "",
+   "Title": "Cours sur la culture numérique de Microsoft",
    "Description": "Folgende Kurse vermitteln grundlegendes Wissen zu Computerkonzepten und -kenntnissen, um Computertechnologie für den Alltagsgebrauch anwenden zu können.\nVerfügbare Kurse:\n- Grundlagen;\n- Internet, Cloud, Web; \n- Produktivitätsprogramme;\n- Computersicherheit und Datenschutz; \n- Leben in der digitalen Welt",
    "Url": "https://www.microsoft.com/de-de/DigitalLiteracy/default.aspx",
    "TechnologyID": "Base numérique",
@@ -4401,7 +4401,7 @@
  },
  {
    "id": "Cours sur la culture numérique de Microsoft",
-   "Title": "",
+   "Title": "Cours sur la culture numérique de Microsoft",
    "Description": "Folgende Kurse vermitteln grundlegendes Wissen zu Computerkonzepten und -kenntnissen, um Computertechnologie für den Alltagsgebrauch anwenden zu können.\nVerfügbare Kurse:\n- Grundlagen;\n- Internet, Cloud, Web; \n- Produktivitätsprogramme;\n- Computersicherheit und Datenschutz; \n- Leben in der digitalen Welt",
    "Url": "https://www.microsoft.com/de-de/DigitalLiteracy/default.aspx",
    "TechnologyID": "Base digital",
@@ -4412,7 +4412,7 @@
  },
  {
    "id": "Digital Pioneer Community (DE)",
-   "Title": "",
+   "Title": "Digital Pioneer Community (DE)",
    "Description": "Die Digital Pioneer Community auf IDA beinhaltet viele Lerninhalte, sowie eine Lerncaféserie (Webinare) für Digital Pioneers.",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/1160/SitePages/Init.aspx",
    "TechnologyID": "Digitale Basis",
@@ -4423,7 +4423,7 @@
  },
  {
    "id": "Digital Pioneer Community (EN)",
-   "Title": "",
+   "Title": "Digital Pioneer Community (EN)",
    "Description": "The Digital Pioneer Community on IDA contains a lot of learning content, as well as a learning café series (webinars) for Digital Pioneers.\n",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/1160/SitePages/Init.aspx",
    "TechnologyID": "Digital Basis",
@@ -4434,7 +4434,7 @@
  },
  {
    "id": "Digital Pioneers",
-   "Title": "",
+   "Title": "Digital Pioneers",
    "Description": "Consultoría colegiada sobre nuevas herramientas de colaboración y comunicación (por ejemplo, IDA, MS Teams, etc.) por parte de los Digital Pioneers. Los multiplicadores pueden ayudarle, también los socios de la AIF (IPA) y los socios de digitalización (DiPa) en su unidad/oficina nacional.",
    "Url": "https://gizonline.sharepoint.com/sites/Digital-Gateway/SitePages/Digital-Pioneers.aspx",
    "TechnologyID": "Base digital",
@@ -4445,7 +4445,7 @@
  },
  {
    "id": "Digital Pioneers",
-   "Title": "",
+   "Title": "Digital Pioneers",
    "Description": "Consultation collégiale sur les nouveaux outils de collaboration et de communication (par exemple IDA, MS Teams, etc.) par des employés de Digital Fit (Digital Pioneers). Les multiplicateurs peuvent vous aider, ainsi que les partenaires IDA (IPA) et les partenaires de numérisation (DiPa) de votre unité/bureau national.",
    "Url": "https://gizonline.sharepoint.com/sites/Digital-Gateway/SitePages/Digital-Pioneers.aspx",
    "TechnologyID": "Base numérique",
@@ -4456,7 +4456,7 @@
  },
  {
    "id": "Digital Pioneers (DE)",
-   "Title": "",
+   "Title": "Digital Pioneers (DE)",
    "Description": "Kollegiale Beratung zu neuen Kollaborations- und Kommunikationstools (z.B. IDA, MS Teams etc.) durch digital fitte Mitarbeitende (Digital Pioneers). Die Mulitplikator*innen können Dir weiterhelfen, auch IDA-Partner*innen (IPA) und Digitalisierungspartner*innen (DiPa) in Ihrer Einheit/Landesbüro.",
    "Url": "https://gizonline.sharepoint.com/sites/Digital-Gateway/SitePages/Digital-Pioneers.aspx",
    "TechnologyID": "Digitale Basis",
@@ -4467,7 +4467,7 @@
  },
  {
    "id": "Digital Pioneers (EN)",
-   "Title": "",
+   "Title": "Digital Pioneers (EN)",
    "Description": "Collegial consulting on new collaboration and communication tools (e.g. IDA, MS Teams etc.) by digital fit employees (Digital Pioneers). The multipliers can help you, also IDA partners (IPA) and digitalisation partners (DiPa) in your unit/country office.",
    "Url": "https://gizonline.sharepoint.com/sites/Digital-Gateway/SitePages/Digital-Pioneers.aspx",
    "TechnologyID": "Digitale Basis",
@@ -4478,7 +4478,7 @@
  },
  {
    "id": "DMS: Basics - Working with Documents",
-   "Title": "",
+   "Title": "DMS: Basics - Working with Documents",
    "Description": "Take this webinar if you want to get a first insight into working with the document management\nsystem of GIZ (DMS).",
    "Url": "https://www.learning-giz.de/pub/DMS:-Basics-working-with-documents/id/19.9235.3-021.00",
    "TechnologyID": "Digitale Basis",
@@ -4489,7 +4489,7 @@
  },
  {
    "id": "DMS: Introduction for New DMV (Webinar)",
-   "Title": "",
+   "Title": "DMS: Introduction for New DMV (Webinar)",
    "Description": "This offer is aimed at employees in the field structure who are responsible for the document management system (DMV) in\ntheir organisational Units.",
    "Url": "https://www.learning-giz.de/pub/DMS%3A-Introduction-for-new-DMV-(Webinar)/id/19.9235.3-027.00",
    "TechnologyID": "Digitale Basis",
@@ -4500,7 +4500,7 @@
  },
  {
    "id": "DMS: Search Successfully",
-   "Title": "",
+   "Title": "DMS: Search Successfully",
    "Description": "Take this webinar to get basic knowledge of the GIZ Document Management System (DMS) and how to search successfully.",
    "Url": "https://www.learning-giz.de/pub/DMS:-Search-successfully/id/19.9235.3-026.00",
    "TechnologyID": "Digitale Basis",
@@ -4511,7 +4511,7 @@
  },
  {
    "id": "Help-Each-Other Wiki",
-   "Title": "",
+   "Title": "Help-Each-Other Wiki",
    "Description": "Eine IDA.Community, die als Austauschplattform für Themen wie z.B. Microsoft Teams, Microsoft Planner, Room Owner, IDA Projects, IDA Communities dient. Hier findest Du Hilfe und kannst Dein Wissen an andere weitergeben.",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/7/Pages/Wiki/IDA.Wiki.aspx",
    "TechnologyID": "Base numérique",
@@ -4522,7 +4522,7 @@
  },
  {
    "id": "Help-Each-Other Wiki",
-   "Title": "",
+   "Title": "Help-Each-Other Wiki",
    "Description": "Eine IDA.Community, die als Austauschplattform für Themen wie z.B. Microsoft Teams, Microsoft Planner, Room Owner, IDA Projects, IDA Communities dient. Hier findest Du Hilfe und kannst Dein Wissen an andere weitergeben.",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/7/Pages/Wiki/IDA.Wiki.aspx",
    "TechnologyID": "Digitale Basis",
@@ -4533,7 +4533,7 @@
  },
  {
    "id": "Help-Each-Other Wiki",
-   "Title": "",
+   "Title": "Help-Each-Other Wiki",
    "Description": "Eine IDA.Community, die als Austauschplattform für Themen wie z.B. Microsoft Teams, Microsoft Planner, Room Owner, IDA Projects, IDA Communities dient. Hier findest Du Hilfe und kannst Dein Wissen an andere weitergeben.",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/7/Pages/Wiki/IDA.Wiki.aspx",
    "TechnologyID": "Digital Basis",
@@ -4544,7 +4544,7 @@
  },
  {
    "id": "Help-Each-Other Wiki",
-   "Title": "",
+   "Title": "Help-Each-Other Wiki",
    "Description": "Eine IDA.Community, die als Austauschplattform für Themen wie z.B. Microsoft Teams, Microsoft Planner, Room Owner, IDA Projects, IDA Communities dient. Hier findest Du Hilfe und kannst Dein Wissen an andere weitergeben.",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/7/Pages/Wiki/IDA.Wiki.aspx",
    "TechnologyID": "Base digital",
@@ -4555,7 +4555,7 @@
  },
  {
    "id": "Help-Each-Other Community",
-   "Title": "",
+   "Title": "Help-Each-Other Community",
    "Description": "An IDA community, which serves as an exchange platform for topics such as Microsoft Teams, Microsoft Planner, Room Owner, IDA Projects, IDA Communities. Here you can find help and share your knowledge with others.",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/7/SitePages/Init.aspx",
    "TechnologyID": "Digital Workplace",
@@ -4566,7 +4566,7 @@
  },
  {
    "id": "How To Use GIZ-Apps (DE)",
-   "Title": "",
+   "Title": "How To Use GIZ-Apps (DE)",
    "Description": "Dieses IDA Wiki ist eine Aufbereitung verschiedener Angebote und Lerninhalte zu GIZ-internen digitalen Anwendungen, wie z.B. Excellisten, YouTube-Videos, PDF-Anleitungen etc. ",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/1392/Pages/Wiki/How%20to%20use%20GIZ-Apps.aspx",
    "TechnologyID": "Digitale Basis",
@@ -4577,7 +4577,7 @@
  },
  {
    "id": "How To Use GIZ-Apps (DE)",
-   "Title": "",
+   "Title": "How To Use GIZ-Apps (DE)",
    "Description": "Este Wiki de IDA es una preparación de diferentes ofertas y contenidos de aprendizaje para las aplicaciones digitales internas de GIZ, por ejemplo, listas de Excel, videos de YouTube, instrucciones en PDF, etc. ",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/1392/Pages/Wiki/Espa%C3%B1ol.aspx",
    "TechnologyID": "Base digital",
@@ -4588,7 +4588,7 @@
  },
  {
    "id": "How To Use GIZ-Apps (DE): IDA-Wiki de la Academia (AIZ) y el equipo de IDA, DIGITS",
-   "Title": "",
+   "Title": "How To Use GIZ-Apps (DE): IDA-Wiki de la Academia (AIZ) y el equipo de IDA, DIGITS",
    "Description": "",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/1392/Pages/Wiki/Fran%C3%A7ais.aspx",
    "TechnologyID": "Base digital",
@@ -4599,7 +4599,7 @@
  },
  {
    "id": "How To Use GIZ-Apps (EN)",
-   "Title": "",
+   "Title": "How To Use GIZ-Apps (EN)",
    "Description": "This IDA Wiki is a preparation of different offers and learning contents for GIZ-internal digital applications, such as Excel lists, YouTube videos, PDF instructions etc. ",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/1392/Pages/Wiki/How%20to%20use%20GIZ-Apps.aspx",
    "TechnologyID": "Digitale Basis",
@@ -4610,7 +4610,7 @@
  },
  {
    "id": "IDA & Office 365 Training (EN)",
-   "Title": "",
+   "Title": "IDA & Office 365 Training (EN)",
    "Description": "Overview page for all online introductory trainings and consultation hours around IDA & Office 365 applications, e.g. introduction into the use of MS Teams, in IDA.Projects and IDA.Communities or into the role of the Room Owner",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/606/SitePages/Trainings%20Modern%20Page.aspx",
    "TechnologyID": "Digitale Basis",
@@ -4621,7 +4621,7 @@
  },
  {
    "id": "IDA & Office 365 Trainings (DE)",
-   "Title": "",
+   "Title": "IDA & Office 365 Trainings (DE)",
    "Description": "Überblicksseite für alle Online-Einführungstrainings und Sprechstunden rund um IDA & Office 365 Anwendungen, z.B. Einführung in die Nutzung von MS Teams, in IDA.Projects und IDA.Communities oder in die Rolle des Room Owners.",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/606/SitePages/Trainings%20Modern%20Page.aspx",
    "TechnologyID": "Digitale Basis",
@@ -4632,7 +4632,7 @@
  },
  {
    "id": "IDA.Communities Basics Overview Page",
-   "Title": "",
+   "Title": "IDA.Communities Basics Overview Page",
    "Description": "Selection of links introducing users to IDA.communities, mainly from the IDA Help-Each-Other Community.",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/1392/Pages/Wiki/IDA.Communities%20(english).aspx",
    "TechnologyID": "Digitale Basis",
@@ -4643,7 +4643,7 @@
  },
  {
    "id": "Introduction to GIZ's Digital Collaboration Tools",
-   "Title": "",
+   "Title": "Introduction to GIZ's Digital Collaboration Tools",
    "Description": "During the IT introduction day you will get an insight into the IT tools that GIZ uses for cooperation & communication, e.g. MS Teams, Planner, Outlook, Sharepoint-based Ida.Communities/Countries/Org.Units or Skype4Business, as well as DMS and OneDrive",
    "Url": "https://www.learning-giz.de/pub/IT-Einfuehrungstag/id/19.9235.3-001.00",
    "TechnologyID": "Digitale Basis",
@@ -4654,7 +4654,7 @@
  },
  {
    "id": "IT-Einführungsveranstaltung",
-   "Title": "",
+   "Title": "IT-Einführungsveranstaltung",
    "Description": "Am IT-Einführungstag erhältst Du einen Einblick in die IT-Tools, die die GIZ für Kooperation & Kommunikation nutzt, z.B. MS Teams, Planner, Outlook, Sharepoint-basierte Ida.Communities/Countries/Org.Units oder Skype4Business, sowie DMS und OneDrive.",
    "Url": "https://www.learning-giz.de/pub/IT-Einfuehrungstag/id/19.9235.3-001.00",
    "TechnologyID": "Digitale Basis",
@@ -4665,7 +4665,7 @@
  },
  {
    "id": "Microsoft Digital Literacy Courses",
-   "Title": "",
+   "Title": "Microsoft Digital Literacy Courses",
    "Description": "The following courses impart basic knowledge of computer concepts and skills to be able to use computer technology for everyday use.\nAvailable courses:\n- Fundamentals;\n- Internet, Cloud, Web; \n- Productivity programs;\n- Computer Security and Privacy; \n- Living in the Digital World",
    "Url": "https://www.microsoft.com/en-us/digitalliteracy/home",
    "TechnologyID": "Digitale Basis",
@@ -4676,7 +4676,7 @@
  },
  {
    "id": "S4B Netiquette",
-   "Title": "",
+   "Title": "S4B Netiquette",
    "Description": "Immer mehr Informations- und Dialogformate finden online statt – meist über Skype for Business. Einige Tipps und Etikette vor und während des Gesprächs für virtuelle Informations- und Austauschformate im Personalbereich helfen, erfolgreiche Veranstaltungen durchzuführen, die allen Spaß machen.",
    "Url": "https://dms.giz.de/dms/llisapi.dll?func=ll&objaction=overview&objid=240955807",
    "TechnologyID": "Digitale Basis",
@@ -4687,7 +4687,7 @@
  },
  {
    "id": "Skype for Business: Einführungskurse",
-   "Title": "",
+   "Title": "Skype for Business: Einführungskurse",
    "Description": "Diese Webinare geben eine Einführung in die Skype for Business Telefonie. ",
    "Url": "https://www.learning-giz.de/pub/Videokonferenz-Anlagen-und-Skype-for-Business/id/19.9235.3-014.00",
    "TechnologyID": "Digitale Basis",
@@ -4698,7 +4698,7 @@
  },
  {
    "id": "Videokonferenzanlagen und Skype for Business",
-   "Title": "",
+   "Title": "Videokonferenzanlagen und Skype for Business",
    "Description": "\nIn diesem Kurs lernst Du Videokonferenzen zu planen und bei der Durchführung  die\nvorhandenen Technologien rund um Skype for Business (z.B. Jabra-Kombigerät,\n360-Grad-Polycom-Anlage) zu nutzen.\n\n",
    "Url": "https://www.learning-giz.de/pub/Videokonferenz-Anlagen-und-Skype-for-Business/id/19.9235.3-014.00",
    "TechnologyID": "Digitale Basis",
@@ -4709,7 +4709,7 @@
  },
  {
    "id": "Aprovecha al máximo tus dispositivos móviles ",
-   "Title": "",
+   "Title": "Aprovecha al máximo tus dispositivos móviles ",
    "Description": "Este curso de la Universidad Nacional Autónoma de México te invita de aprovechar al máximo de tus dispositivos móviles para tu vida diaria y tu trabajo. Este curso está conformado por tres unidades: primero conocerás nociones básicas de los sistemas operativos de tus dispositivos móviles; después practicarás la instalación y desinstalación de aplicaciones. Finalmente conocerás las principales normas de seguridad para su empleo.",
    "Url": "https://aprendomas.cuaed.unam.mx/",
    "TechnologyID": "Puesto de trabajo digital",
@@ -4720,7 +4720,7 @@
  },
  {
    "id": "Article: Why You Can’t Buy A Digital Workplace",
-   "Title": "",
+   "Title": "Article: Why You Can’t Buy A Digital Workplace",
    "Description": "Digital workplace is a concept, not a product. Creating digital workplaces therefore requires a fundamental change in thinking about workplaces, not just buying software suites. This article helps to understand the definition of a digital workplace.",
    "Url": "https://www.clearbox.co.uk/why-you-cant-buy-a-digital-workplace/",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4731,7 +4731,7 @@
  },
  {
    "id": "Die Arbeitsplatz-Transformation im digitalen Zeitalter",
-   "Title": "",
+   "Title": "Die Arbeitsplatz-Transformation im digitalen Zeitalter",
    "Description": "Vor 10 Jahren hatten die meisten Wissensarbeiter*innen noch einen fixen Arbeitsplatz und fest geregelte Arbeitszeiten. Diese Podcastepisode erkennt, dass sich die Arbeitswelt in den letzten Jahren vor allem im Dienstleistungssektor sehr stark verändert hat. Was hat es mit Home Office, Vertrauensarbeitszeit und Co. auf sich?",
    "Url": "https://soundcloud.com/deloitte-future-talk/026-die-arbeitsplatz",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4742,7 +4742,7 @@
  },
  {
    "id": "Future Talk zu \"Co-Working Spaces – Die neue Bürowelt?\" (Podcast)",
-   "Title": "",
+   "Title": "Future Talk zu \"Co-Working Spaces – Die neue Bürowelt?\" (Podcast)",
    "Description": "Flexibles Arbeiten nimmt zu, ortsunabhängiges Arbeiten ebenfalls. Home Office ist eine der Alternativen, die häufiger genutzt wird, aber es gibt seit kurzem einen weiteren Trend, der zunehmend populärer wird: Arbeiten in Co-Working Spaces. ",
    "Url": "https://soundcloud.com/deloitte-future-talk/017-co-working-spaces-die-neue",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4753,7 +4753,7 @@
  },
  {
    "id": "Help-Each-Other Community",
-   "Title": "",
+   "Title": "Help-Each-Other Community",
    "Description": "Une IDA.community, qui sert de plate-forme d'échange pour des sujets tels que les équipes Microsoft, le planificateur Microsoft, le propriétaire de salle, les projets IDA, les communautés IDA Ici, vous pouvez trouver de l'aide et partager vos connaissances avec d'autres.",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/7/SitePages/Init.aspx",
    "TechnologyID": "Poste de travail numérique",
@@ -4764,7 +4764,7 @@
  },
  {
    "id": "Help-Each-Other Community",
-   "Title": "",
+   "Title": "Help-Each-Other Community",
    "Description": "Una IDA.community, que sirve como plataforma de intercambio de temas como Microsoft Teams, Microsoft Planner, Room Owner, IDA Projects, IDA Communities. Aquí puedes encontrar ayuda y compartir tus conocimientos con otros.",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/7/SitePages/Init.aspx",
    "TechnologyID": "Puesto de trabajo digital",
@@ -4775,7 +4775,7 @@
  },
  {
    "id": "Help-Each-Other Community",
-   "Title": "",
+   "Title": "Help-Each-Other Community",
    "Description": "An IDA community, which serves as an exchange platform for topics such as Microsoft Teams, Microsoft Planner, Room Owner, IDA Projects, IDA Communities. Here you can find help and share your knowledge with others.",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/7/SitePages/Init.aspx",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4786,7 +4786,7 @@
  },
  {
    "id": "How To Use GIZ-Apps (DE)",
-   "Title": "",
+   "Title": "How To Use GIZ-Apps (DE)",
    "Description": "Dieses IDA Wiki ist eine Aufbereitung verschiedener Angebote und Lerninhalte zu GIZ-internen digitalen Anwendungen, wie z.B. Excellisten, YouTube-Videos, PDF-Anleitungen etc. ",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/1392/Pages/Wiki/How%20to%20use%20GIZ-Apps.aspx",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4797,7 +4797,7 @@
  },
  {
    "id": "How To Use GIZ-Apps (DE)",
-   "Title": "",
+   "Title": "How To Use GIZ-Apps (DE)",
    "Description": "Dieses IDA Wiki ist eine Aufbereitung verschiedener Angebote und Lerninhalte zu GIZ-internen digitalen Anwendungen, wie z.B. Excellisten, YouTube-Videos, PDF-Anleitungen etc. ",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/1392/Pages/Wiki/How%20to%20use%20GIZ-Apps.aspx",
    "TechnologyID": "Poste de travail numérique",
@@ -4808,7 +4808,7 @@
  },
  {
    "id": "How To Use GIZ-Apps (DE)",
-   "Title": "",
+   "Title": "How To Use GIZ-Apps (DE)",
    "Description": "Dieses IDA Wiki ist eine Aufbereitung verschiedener Angebote und Lerninhalte zu GIZ-internen digitalen Anwendungen, wie z.B. Excellisten, YouTube-Videos, PDF-Anleitungen etc. ",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/1392/Pages/Wiki/How%20to%20use%20GIZ-Apps.aspx",
    "TechnologyID": "Puesto de trabajo digital",
@@ -4819,7 +4819,7 @@
  },
  {
    "id": "How To Use GIZ-Apps (EN)",
-   "Title": "",
+   "Title": "How To Use GIZ-Apps (EN)",
    "Description": "This IDA Wiki is a preparation of different offers and learning contents for GIZ-internal digital applications, such as Excel lists, YouTube videos, PDF instructions etc. ",
    "Url": "https://gizonline.sharepoint.com/sites/beezy/groups/1392/Pages/Wiki/How%20to%20use%20GIZ-Apps.aspx",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4830,7 +4830,7 @@
  },
  {
    "id": "Kurse zur digitalen Kompetenz von Microsoft",
-   "Title": "",
+   "Title": "Kurse zur digitalen Kompetenz von Microsoft",
    "Description": "Folgende Kurse vermitteln grundlegendes Wissen zu Computerkonzepten und -kenntnissen, um Computertechnologie für den Alltagsgebrauch anwenden zu können.\nVerfügbare Kurse:\n- Grundlagen;\n- Internet, Cloud, Web; \n- Produktivitätsprogramme;\n- Computersicherheit und Datenschutz; \n- Leben in der digitalen Welt",
    "Url": "https://www.microsoft.com/de-de/DigitalLiteracy/default.aspx",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4841,7 +4841,7 @@
  },
  {
    "id": "Microsoft Digital Literacy Courses",
-   "Title": "",
+   "Title": "Microsoft Digital Literacy Courses",
    "Description": "The following courses impart basic knowledge of computer concepts and skills to be able to use computer technology for everyday use.\nAvailable courses:\n- Fundamentals;\n- Internet, Cloud, Web; \n- Productivity programs;\n- Computer Security and Privacy; \n- Living in the Digital World",
    "Url": "https://www.microsoft.com/en-us/digitalliteracy/home",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4852,7 +4852,7 @@
  },
  {
    "id": "New Workspace Playbook (DE)",
-   "Title": "",
+   "Title": "New Workspace Playbook (DE)",
    "Description": "Ein Buch mit vielen Tools und Templates sowie Beispielen aus verschiedenen Organisationen zur Neugestaltung von Arbeitsräumen mit Beteiligung der Mitarbeiter*innen. Kernfrage: Wie müssen Arbeitsumgebungen aussehen, damit das eigene (Wissens-)Arbeiten effektiv ist und Spaß macht?",
    "Url": "http://new-workspace-playbook.de/",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4863,7 +4863,7 @@
  },
  {
    "id": "Quelle est la meilleure application pour prendre des notes sur mobile?",
-   "Title": "",
+   "Title": "Quelle est la meilleure application pour prendre des notes sur mobile?",
    "Description": "Vers quelle application se tourner lorsque vous avez besoin de prendre des notes en mobilité? Vous avez des solutions pour gérer vos tâches sur mobile mais quelle application utiliser sur son smartphone iOs ou Android pour prendre des notes à la volée et pouvoir les retrouver ensuite? Cet article vous présente 5 applications pour prendre des notes sur votre mobile.",
    "Url": "https://allweb2.com/2018/11/quelle-est-la-meilleure-application-pour-prendre-des-notes-sur-mobile/",
    "TechnologyID": "Poste de travail numérique",
@@ -4874,7 +4874,7 @@
  },
  {
    "id": "Redesigning 925",
-   "Title": "",
+   "Title": "Redesigning 925",
    "Description": "Pekka Pohjakallio and Saku Tuominen conducted Project 925, a year long close study of 9 Finnish workplaces. Their Workbook presents models, tools and lessons learned from this long-term study. The videos give some insights into the results of the study.",
    "Url": "https://www.youtube.com/playlist?list=PLhZUrVICDUSbB-luxm--e4SOYY3LvGZh4",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4885,7 +4885,7 @@
  },
  {
    "id": "Secure Mobile Working",
-   "Title": "",
+   "Title": "Secure Mobile Working",
    "Description": "Secure work also means that our data is protected. Especially when we work remotely, there are security precautions such as multi factor authentication and mobile device management (MFA/MDM).",
    "Url": "https://intranet.giz.de/cps/rde/xchg/giz_intranet_en/XSL/hs.xsl/-/HTML/172644.htm",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4896,7 +4896,7 @@
  },
  {
    "id": "Sicheres mobiles Arbeiten",
-   "Title": "",
+   "Title": "Sicheres mobiles Arbeiten",
    "Description": "Sicheres Arbeiten bedeutet auch, dass unsere Daten geschützt sind. Besonders wenn wir aus der Ferne arbeiten, gibt es Sicherheitsvorkehrungen wie Multi-Faktor-Authentifizierung und Verwaltung mobiler Geräte (MFA/MDM).",
    "Url": "https://intranet.giz.de/cps/rde/xchg/giz_intranet/XSL/hs.xsl/-/HTML/172644.htm",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4907,7 +4907,7 @@
  },
  {
    "id": "Skype for Business Basics",
-   "Title": "",
+   "Title": "Skype for Business Basics",
    "Description": "This selection of links lead you to short Skype for Business introductory online tutorials.",
    "Url": "https://www.learning-giz.de/pub/Skype-for-Business-Einfuehrung-(Webinar)/id/19.9235.3-012.00",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4918,7 +4918,7 @@
  },
  {
    "id": "Teletrabajo y equipos resilientes",
-   "Title": "",
+   "Title": "Teletrabajo y equipos resilientes",
    "Description": "Dada la imperiosa necesidad del distanciamiento social para contener la propagación del COVID-19, en solo semanas, millones de personas alrededor del mundo han visto en la necesidad de trabajar remotamente, convirtiendo al teletrabajo en la única opción posible. En las circunstancias actuales, el teletrabajo emerge como la “nueva normalidad” laboral pero al manejar esta rápida transición, es importante considerar algunos consejos para adaptarse efectivamente.",
    "Url": "https://www.do.undp.org/content/dominican_republic/es/home/blog/teletrabajo-y-equipos-resilientes.html",
    "TechnologyID": "Puesto de trabajo digital",
@@ -4929,7 +4929,7 @@
  },
  {
    "id": "The Way We Work",
-   "Title": "",
+   "Title": "The Way We Work",
    "Description": "This is a series of 8 short videos, curated by TED: Practical wisdom on how to thrive amid changing workplace conventions.",
    "Url": "https://www.youtube.com/playlist?list=PLOGi5-fAu8bH6asWy4j-5gXvp5r9ag94l",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4940,7 +4940,7 @@
  },
  {
    "id": "The Workplace Experience Revolution Part 2: Do New Workplaces Work?",
-   "Title": "",
+   "Title": "The Workplace Experience Revolution Part 2: Do New Workplaces Work?",
    "Description": "Report of a study conducted with 557,959 employee responses providing assessments of 3,932 workplaces worldwide. Workplace redesigns do not always lead to positive change, the report also asks for reasons why. ",
    "Url": "https://www.leesmanindex.com/wp-content/uploads/2019/10/Leesman-EwX-P2-Second-Digital-Edition.pdf",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4951,7 +4951,7 @@
  },
  {
    "id": "UNLEASH World Conférence",
-   "Title": "",
+   "Title": "UNLEASH World Conférence",
    "Description": "La 7ème édition du salon UNLEASH World, le plus grand salon mondial dédié à l’avenir du travail et des technologies RH, aura lieu les 22 et 23 octobre prochains à Paris. Pendant 2 jours, le salon proposera un programme de conférences menées par des intervenants de plus de 120 pays pour discuter de l’avenir du secteur, de sa transformation digitale, de l’industrie 4.0, des solutions IA, des nouvelles techniques de leadership et bien plus encore.",
    "Url": "https://unleashgroup.io/world",
    "TechnologyID": "Poste de travail numérique",
@@ -4962,7 +4962,7 @@
  },
  {
    "id": "UNLEASH World Conférence",
-   "Title": "",
+   "Title": "UNLEASH World Conférence",
    "Description": "La 7ème édition du salon UNLEASH World, le plus grand salon mondial dédié à l’avenir du travail et des technologies RH, aura lieu les 22 et 23 octobre prochains à Paris. Pendant 2 jours, le salon proposera un programme de conférences menées par des intervenants de plus de 120 pays pour discuter de l’avenir du secteur, de sa transformation digitale, de l’industrie 4.0, des solutions IA, des nouvelles techniques de leadership et bien plus encore.",
    "Url": "https://unleashgroup.io/world",
    "TechnologyID": "Digital Workplace",
@@ -4973,7 +4973,7 @@
  },
  {
    "id": "UNLEASH World Konferenz",
-   "Title": "",
+   "Title": "UNLEASH World Konferenz",
    "Description": "Die UNLEASH World ist die weltweit größte Ausstellung und Konferenz über die Zukunft der Arbeit und der Technologien im Bereich Human Resources mit hochrangigen Rednern.",
    "Url": "https://unleashgroup.io/world",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4984,7 +4984,7 @@
  },
  {
    "id": "Videokonferenzanlagen und Skype for Business",
-   "Title": "",
+   "Title": "Videokonferenzanlagen und Skype for Business",
    "Description": "In diesem Kurs lernst Du Videokonferenzen zu planen und bei der Durchführung die\nvorhandenen Technologien rund um Skype for Business (z.B. Jabra-Kombigerät,\n360-Grad-Polycom-Anlage) zu nutzen.",
    "Url": "https://www.learning-giz.de/pub/Videokonferenz-Anlagen-und-Skype-for-Business/id/19.9235.3-014.00",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -4995,7 +4995,7 @@
  },
  {
    "id": "Arbeitsorganisation",
-   "Title": "",
+   "Title": "Arbeitsorganisation",
    "Description": "Dieser Beitrag verrät Tipps und Hinweise für eine gute Organisation von Arbeit.",
    "Url": "https://intranet.giz.de/cps/rde/xchg/giz_intranet/XSL/hs.xsl/-/HTML/18046.htm",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5006,7 +5006,7 @@
  },
  {
    "id": "Center for Humane Technology: A New Agenda For Tech",
-   "Title": "",
+   "Title": "Center for Humane Technology: A New Agenda For Tech",
    "Description": "In this lecture, Tristan Harris offers a diagnosis for the many problems generated by the extractive attention economy as well as a new path forward for producing technology that is aligned with humanity.",
    "Url": "https://humanetech.com/newagenda/",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5017,7 +5017,7 @@
  },
  {
    "id": "Cooperation and Team Management (Academy Course)",
-   "Title": "",
+   "Title": "Cooperation and Team Management (Academy Course)",
    "Description": "As a specialist (without disciplinary leadership responsibility) you cooperate close with employees and coordinate them technically. This course will help you to show how successful cooperation and management of your team can be achieved in order to reach common goals.",
    "Url": "https://www.learning-giz.de/pub/Cooperation-and-Team-Management-/id/19.9241.1-013.00",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5028,7 +5028,7 @@
  },
  {
    "id": "Digital Wellbeing in the Twenty-First Century",
-   "Title": "",
+   "Title": "Digital Wellbeing in the Twenty-First Century",
    "Description": "Report of the Horizon2020 funded DSI4EU project around Digital Social Innovation: This report summarizes the interconnection between technological developments and individual wellbeing and health. ",
    "Url": "https://storage.googleapis.com/lab-website-2019-assets/V2-Trend_-Digital-Wellbeing-f%C3%BCr-labsite.pdf",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5039,7 +5039,7 @@
  },
  {
    "id": "Equilibrio entre la salud y el bienestar psicológico en la vida digital",
-   "Title": "",
+   "Title": "Equilibrio entre la salud y el bienestar psicológico en la vida digital",
    "Description": "En este curso ofrecido por el gobierno de Colombia aprenderás a identificar los posibles riesgos a nivel psicológico que pueden presentarse por el mal uso o el uso prolongado de Internet y de los dispositivos digitales y a utilizar las tecnologías digitales para promover el bienestar físico y emocional.",
    "Url": "https://www.ciudadaniadigital.gov.co/627/w3-article-60953.html",
    "TechnologyID": "Puesto de trabajo digital",
@@ -5050,7 +5050,7 @@
  },
  {
    "id": "Estudio prospectivo sobre los riesgos nuevos y emergentes para la seguridad y salud en el trabajo asociados a las tecnologías de la información y la comunicación y la ubicación del trabajo para 2025",
-   "Title": "",
+   "Title": "Estudio prospectivo sobre los riesgos nuevos y emergentes para la seguridad y salud en el trabajo asociados a las tecnologías de la información y la comunicación y la ubicación del trabajo para 2025",
    "Description": "Este resumen de un informe de la EU-OSHA presenta las últimas conclusiones de un gran proyecto prospectivo sobre la evolución de las tecnologías digitales y los cambios resultantes sobre dónde, cuándo y de qué forma se realizará el trabajo. El impacto potencial de estos cambios en la salud y seguridad en el trabajo (SST) hasta 2025 se analizó mediante el desarrollo de varios escenarios presentados en este informe.",
    "Url": "https://osha.europa.eu/es/publications/summary-foresight-new-and-emerging-occupational-safety-and-health-risks-associated/view",
    "TechnologyID": "Puesto de trabajo digital",
@@ -5061,7 +5061,7 @@
  },
  {
    "id": "Faironomics",
-   "Title": "",
+   "Title": "Faironomics",
    "Description": "Dies ist eine Community und Toolbox für eine faire und ökologische Ökonomie  – eine Faironomics. Aufgeteilt in 8 Themenbereiche: Träumen, Ideen, Planen, Geld, Büro, Kooperation, Kommunikation, Wachstum",
    "Url": "https://www.faironomics.de",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5072,7 +5072,7 @@
  },
  {
    "id": "Foresight on new and emerging occupational safety and health risks associated with digitalisation by 2025",
-   "Title": "",
+   "Title": "Foresight on new and emerging occupational safety and health risks associated with digitalisation by 2025",
    "Description": "In-depth report by the European Agency for Healthy and Safety at Work examinig the risks and foresighting development until 2025.",
    "Url": "https://osha.europa.eu/en/publications/foresight-new-and-emerging-occupational-safety-and-health-risks-associated/view",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5083,7 +5083,7 @@
  },
  {
    "id": "Gesundes mobiles Arbeiten",
-   "Title": "",
+   "Title": "Gesundes mobiles Arbeiten",
    "Description": "Damit mobiles Arbeiten gut und gesund gelingt, haben der Medizinische Dienst und das Betriebliche Gesundheitsmanagement eine Reihe von Tipps und Angeboten zu diesem Thema zusammengestellt.",
    "Url": "https://intranet.giz.de/cps/rde/xchg/giz_intranet/XSL/hs.xsl/-/HTML/180669.htm",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5094,7 +5094,7 @@
  },
  {
    "id": "Haufe Online: Überblick über Praktiken zur Erreichbarkeit verschiedener Firmen",
-   "Title": "",
+   "Title": "Haufe Online: Überblick über Praktiken zur Erreichbarkeit verschiedener Firmen",
    "Description": "Dieser kurze Überblicksartikel liefert Einblicke in die Praktiken der internen Kommunikation anderer Organisationen und Absprünge zu weiterführenden Artikeln.",
    "Url": "https://www.haufe.de/personal/hr-management/staendige-erreichbarkeit-neue-debatte-nach-porsche-vorschlag_80_437058.html",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5105,7 +5105,7 @@
  },
  {
    "id": "Healthy Remote Work",
-   "Title": "",
+   "Title": "Healthy Remote Work",
    "Description": "To ensure that mobile work is both successful and healthy, the Medical Service and the Corporate Health Management have collected helpful tips and information on this topic.",
    "Url": "https://intranet.giz.de/cps/rde/xchg/giz_intranet_en/XSL/hs.xsl/-/HTML/180669.htm",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5116,7 +5116,7 @@
  },
  {
    "id": "How To Build A Happy Team",
-   "Title": "",
+   "Title": "How To Build A Happy Team",
    "Description": "Recording of a workshop hosted by Apolitical: Participants learned how internal cultures have successfully changed to improve mental health, how they themselves can be part of and build a happy team, and what comes within their responsibility as a colleague.",
    "Url": "https://apolitical.co/mental-health-workshop/?ref=value",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5127,7 +5127,7 @@
  },
  {
    "id": "Human Systems: HS 101 Self Study",
-   "Title": "",
+   "Title": "Human Systems: HS 101 Self Study",
    "Description": "Self Study Course to gain knowledge, awareness, and instruments for changing the social games that people play around you; and redesigning organisations, social networks, group practices, democratic mechanisms, etc.",
    "Url": "https://www.notion.so/HS101-Self-Study-44a242719f91431db247d6dc1441a0b4",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5138,7 +5138,7 @@
  },
  {
    "id": "Initiation au bien-être numérique",
-   "Title": "",
+   "Title": "Initiation au bien-être numérique",
    "Description": "Dans ce module, vous découvrirez pourquoi il est si important de développer un rapport sain à la technologie et comment obtenir plus d'informations sur votre propre utilisation du Web. Nous vous présenterons également les différents outils qui vous permettront de mettre en place et de conserver de bonnes habitudes en matière de technologie.",
    "Url": "https://learndigital.withgoogle.com/ateliersnumeriques/course/digital-wellbeing",
    "TechnologyID": "Poste de travail numérique",
@@ -5149,7 +5149,7 @@
  },
  {
    "id": "Introducción a Bienestar Digital",
-   "Title": "",
+   "Title": "Introducción a Bienestar Digital",
    "Description": "Curso de Google Activate para aprender a desarrollar y mantener hábitos tecnológicos saludables. En este módulo descubrirás por qué es fundamental usar la tecnología de forma saludable y cómo puedes ser más consciente del uso que le das a Internet. También conocerás las distintas herramientas que puedes usar para desarrollar y mantener hábitos tecnológicos saludables.",
    "Url": "https://learndigital.withgoogle.com/activate/course/digital-wellbeing",
    "TechnologyID": "Puesto de trabajo digital",
@@ -5160,7 +5160,7 @@
  },
  {
    "id": "Kooperation und Steuerung von Teams - Gemeinsam Ziele erreichen (AIZ)",
-   "Title": "",
+   "Title": "Kooperation und Steuerung von Teams - Gemeinsam Ziele erreichen (AIZ)",
    "Description": "Als Fachkraft (Band 4 oder Band 5\nohne disziplinarische\nFührungsverantwortung) kooperierst Du\neng mit Mitarbeiter*innen und\nkoordinierst diese\nfachlich. Dieser Kurs hilft zeigt Dir, wie eine gelingende Kooperation und Steuerung von Deinem Team gelingen kann, um gemeinsam Ziele zu erreichen.",
    "Url": "https://www.learning-giz.de/pub/Kooperation-und-Steuerung-von-Teams-Gemeinsam-Ziel/id/19.9241.1-013.00",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5171,7 +5171,7 @@
  },
  {
    "id": "Le stress numérique",
-   "Title": "",
+   "Title": "Le stress numérique",
    "Description": "Connectés en permanence, l'homme moderne et son cerveau sont confrontés à d’importantes sollicitations. Comment gérer le stress numérique? À quel moment la ligne rouge est-elle franchie? Dans cette émission Xenius diffusé sur ARTE vous apprenez les stratégies les plus efficaces pour vous protéger du stress numérique.",
    "Url": "https://www.youtube.com/watch?v=_yg6sKQ3ekU",
    "TechnologyID": "Poste de travail numérique",
@@ -5182,7 +5182,7 @@
  },
  {
    "id": "Marie Forleo: Decade in Review",
-   "Title": "",
+   "Title": "Marie Forleo: Decade in Review",
    "Description": "3-part video series that guides users through simple tasks that create awareness and mindfulness of one's needs, wishes and accomplishments over the last decade - and helps make a plan for the next one. ",
    "Url": "https://www.marieforleo.com/2019/12/decade-in-review-10-year-plan/",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5193,7 +5193,7 @@
  },
  {
    "id": "Mindful Minutes",
-   "Title": "",
+   "Title": "Mindful Minutes",
    "Description": "Mindful Minutes is not necessarily about setting up a feel-good program, but rather about giving all of us at GIZ an understanding of concrete approaches to resilience through the means of practices and tools for balancing, self-management and -regulation. ",
    "Url": "https://gizonline.sharepoint.com/sites/directory/SitePages/en-us/Mindful%20Minutes.aspx",
    "TechnologyID": "Digital Workplace",
@@ -5204,7 +5204,7 @@
  },
  {
    "id": "Mindful Minutes",
-   "Title": "",
+   "Title": "Mindful Minutes",
    "Description": "Mindful Minutes n’a pas pour vocation de mettre en place un programme de bien-être, mais plutôt de nous faire prendre conscience, à nous tous, à la GIZ, d’approches concrètes de résilience au moyen de pratiques et d’outils d’équilibre, de gestion de soi et d’autodiscipline. ",
    "Url": "https://gizonline.sharepoint.com/sites/directory/SitePages/en-us/Mindful%20Minutes.aspx",
    "TechnologyID": "Digital Workplace",
@@ -5215,7 +5215,7 @@
  },
  {
    "id": "Organising Your Work",
-   "Title": "",
+   "Title": "Organising Your Work",
    "Description": "This article provides tips and best practices on how to organise work well.",
    "Url": "https://intranet.giz.de/cps/rde/xchg/giz_intranet_en/XSL/hs.xsl/-/HTML/18046.htm",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5226,7 +5226,7 @@
  },
  {
    "id": "Resilienz stärken - Stress bewältigen und Anforderungen des Alltags entspannt entgegentreten (AIZ)",
-   "Title": "",
+   "Title": "Resilienz stärken - Stress bewältigen und Anforderungen des Alltags entspannt entgegentreten (AIZ)",
    "Description": "In diesem Kurs setzt Du Dich mit den Instrumenten des beruflichen und persönlichen Stressmanagements auseinander und wirst für das frühzeitige Erkennen von Stressmustern und -symptomen in Deinem Arbeitskontext sensibilisiert.",
    "Url": "https://www.learning-giz.de/pub/Resilienz-staerken-Stress-bewaeltigen/id/19.9240.3-001.00",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5237,7 +5237,7 @@
  },
  {
    "id": "Réussir sa transformation digitale sans stress psychologiques",
-   "Title": "",
+   "Title": "Réussir sa transformation digitale sans stress psychologiques",
    "Description": "Votre entreprise est en plein dans le processus de digitalisation des pratiques et vous commencez à ressentir certains malaises? La promesse de la digitalisation c’est de faciliter la gestion des tâches et faire gagner du temps au personnel. Cependant, Les formations s’accélèrent, les outils technologiques se multiplient et vous êtes assaillis de toute part par des écrans. Cette situation peut très vite devenir psychologiquement difficile à gérer. Pas de panique, il ne s’agit que d’un moment passager que vous pourrez facilement surmonter avec quelques conseils.",
    "Url": "https://www.universityrh.net/reussir-sa-transformation-digitale-sans-stress-psychologiques/",
    "TechnologyID": "Poste de travail numérique",
@@ -5248,7 +5248,7 @@
  },
  {
    "id": "Technology and Health",
-   "Title": "",
+   "Title": "Technology and Health",
    "Description": "Being overly connected can cause psychological problems such as distraction, narcissism, expectation of immediate satisfaction and even depression. On the physical side, it can cause vision problems, hearing loss and neck tension. Fortunately, precautions can be taken.",
    "Url": "http://www.digitalresponsibility.org/health-and-technology",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5259,7 +5259,7 @@
  },
  {
    "id": "Ueber Product Podcast: Courtney Hemphill – Psychological Safety at Work",
-   "Title": "",
+   "Title": "Ueber Product Podcast: Courtney Hemphill – Psychological Safety at Work",
    "Description": "Markus Andrezak interviews Courtney Hemhill on psychological safety at work: Why work in the digital sphere needs empathy and self-awareness, and how to practice that. ",
    "Url": "http://ueberproduct.de/ep-17-courtney-hemphill-psychological-safety-at-work/",
    "TechnologyID": "Digitaler Arbeitsplatz",
@@ -5270,7 +5270,7 @@
  },
  {
    "id": "Un futuro del trabajo seguro y saludable: desafíos y oportunidades - Capítulo 2 - Tecnología",
-   "Title": "",
+   "Title": "Un futuro del trabajo seguro y saludable: desafíos y oportunidades - Capítulo 2 - Tecnología",
    "Description": "En la publicación \"Seguridad y salud en el centro del futuro del trabajo (SST)\" de la Organización International del Trabajo (ILO) el capítulo 2 examina las tendencias que impulsan los cambios en el mundo del trabajo y su impacto en la SST, centrándose en los cuatro ámbitos principales desde los cuales está cambiando el mundo del trabajo, entre otras la tecnología. El capítulo 2.1. pretende determinar las oportunidades y los retos principales de la digitalización y los TIC para la SST.",
    "Url": "https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_686762.pdf",
    "TechnologyID": "Puesto de trabajo digital",
@@ -5281,7 +5281,7 @@
  },
  {
    "id": "UN High-Level Panel on Digital Cooperation",
-   "Title": "",
+   "Title": "UN High-Level Panel on Digital Cooperation",
    "Description": "Le groupe de haut niveau sur la coopération numérique a été convoqué par le secrétaire général des Nations unies afin de formuler des recommandations sur la manière dont la communauté internationale pourrait travailler ensemble pour optimiser l'utilisation des technologies numériques et atténuer les risques. ",
    "Url": "https://www.un.org/fr/digital-cooperation-panel/index.html",
    "TechnologyID": "Organisation numérique",
@@ -5292,7 +5292,7 @@
  },
  {
    "id": "UN High-Level Panel on Digital Cooperation",
-   "Title": "",
+   "Title": "UN High-Level Panel on Digital Cooperation",
    "Description": "El Grupo de Alto Nivel sobre Cooperación Digital fue convocado por el Secretario General de las Naciones Unidas para formular recomendaciones sobre la forma en que la comunidad internacional podría colaborar para optimizar el uso de las tecnologías digitales y mitigar los riesgos. ",
    "Url": "https://www.un.org/es/digital-cooperation-panel/index.html",
    "TechnologyID": "Organización digital",
