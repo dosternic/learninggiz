@@ -1,21 +1,156 @@
 {
     "Technologies": [
-    {
-      "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
-      "Name": "DMS",
-      "Subjects": []
-    },
-        {
-      "Id": "d3ee44dc-f4ff-424b-a3be-3580953fc479",
-      "Name": "Helpline",
-      "Subjects": []
-    },
-        {
-      "Id": "d3ee44dc-f4ff-424b-a3be-3580954ec479",
-      "Name": "SAP",
-      "Subjects": []
-    }
-    ],
+ {
+   "id": "Procesos digitales",
+   "Name": "Procesos digitales",
+   "subjects": ""
+ },
+ {
+   "id": "Competencias digitales",
+   "Name": "Competencias digitales",
+   "subjects": ""
+ },
+ {
+   "id": "Compétences numériques",
+   "Name": "Compétences numériques",
+   "subjects": ""
+ },
+ {
+   "id": "Cooperación digital",
+   "Name": "Cooperación digital",
+   "subjects": ""
+ },
+ {
+   "id": "Poste de travail numérique",
+   "Name": "Poste de travail numérique",
+   "subjects": ""
+ },
+ {
+   "id": "Digital Leadership",
+   "Name": "Digital Leadership",
+   "subjects": ""
+ },
+ {
+   "id": "Digitale Führung",
+   "Name": "Digitale Führung",
+   "subjects": ""
+ },
+ {
+   "id": "Organización digital",
+   "Name": "Organización digital",
+   "subjects": ""
+ },
+ {
+   "id": "Organisation numérique",
+   "Name": "Organisation numérique",
+   "subjects": ""
+ },
+ {
+   "id": "Digital Organisation",
+   "Name": "Digital Organisation",
+   "subjects": ""
+ },
+ {
+   "id": "Liderazgo digital",
+   "Name": "Liderazgo digital",
+   "subjects": ""
+ },
+ {
+   "id": "Digital Workplace",
+   "Name": "Digital Workplace",
+   "subjects": ""
+ },
+ {
+   "id": "Direction numérique",
+   "Name": "Direction numérique",
+   "subjects": ""
+ },
+ {
+   "id": "Digital Processes",
+   "Name": "Digital Processes",
+   "subjects": ""
+ },
+ {
+   "id": "Servicios digitales",
+   "Name": "Servicios digitales",
+   "subjects": ""
+ },
+ {
+   "id": "Puesto de trabajo digital",
+   "Name": "Puesto de trabajo digital",
+   "subjects": ""
+ },
+ {
+   "id": "Digitale Basis",
+   "Name": "Digitale Basis",
+   "subjects": ""
+ },
+ {
+   "id": "Base numérique",
+   "Name": "Base numérique",
+   "subjects": ""
+ },
+ {
+   "id": "Base digital",
+   "Name": "Base digital",
+   "subjects": ""
+ },
+ {
+   "id": "Digital Basis",
+   "Name": "Digital Basis",
+   "subjects": ""
+ },
+ {
+   "id": "Digitaler Arbeitsplatz",
+   "Name": "Digitaler Arbeitsplatz",
+   "subjects": ""
+ },
+ {
+   "id": "Services numériques",
+   "Name": "Services numériques",
+   "subjects": ""
+ },
+ {
+   "id": "Processus numériques",
+   "Name": "Processus numériques",
+   "subjects": ""
+ },
+ {
+   "id": "Digital Cooperation",
+   "Name": "Digital Cooperation",
+   "subjects": ""
+ },
+ {
+   "id": "Digitale Kooperation",
+   "Name": "Digitale Kooperation",
+   "subjects": ""
+ },
+ {
+   "id": "Digitale Organisation",
+   "Name": "Digitale Organisation",
+   "subjects": ""
+ },
+ {
+   "id": "Coopération numérique",
+   "Name": "Coopération numérique",
+   "subjects": ""
+ },
+ {
+   "id": "Digitale Kompetenzen",
+   "Name": "Digitale Kompetenzen",
+   "subjects": ""
+ },
+ {
+   "id": "Digital Competencies",
+   "Name": "Digital Competencies",
+   "subjects": ""
+ },
+ {
+   "id": "Digitale Prozesse",
+   "Name": "Digitale Prozesse",
+   "subjects": ""
+ }
+],
   "Categories": [
  {
    "id": "Al día en la transformación digital",
