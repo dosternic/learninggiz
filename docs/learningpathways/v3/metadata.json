@@ -3,152 +3,152 @@
  {
    "id": "Procesos digitales",
    "Name": "Procesos digitales",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Competencias digitales",
    "Name": "Competencias digitales",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Compétences numériques",
    "Name": "Compétences numériques",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Cooperación digital",
    "Name": "Cooperación digital",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Poste de travail numérique",
    "Name": "Poste de travail numérique",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Digital Leadership",
    "Name": "Digital Leadership",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Digitale Führung",
    "Name": "Digitale Führung",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Organización digital",
    "Name": "Organización digital",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Organisation numérique",
    "Name": "Organisation numérique",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Digital Organisation",
    "Name": "Digital Organisation",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Liderazgo digital",
    "Name": "Liderazgo digital",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Digital Workplace",
    "Name": "Digital Workplace",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Direction numérique",
    "Name": "Direction numérique",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Digital Processes",
    "Name": "Digital Processes",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Servicios digitales",
    "Name": "Servicios digitales",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Puesto de trabajo digital",
    "Name": "Puesto de trabajo digital",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Digitale Basis",
    "Name": "Digitale Basis",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Base numérique",
    "Name": "Base numérique",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Base digital",
    "Name": "Base digital",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Digital Basis",
    "Name": "Digital Basis",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Digitaler Arbeitsplatz",
    "Name": "Digitaler Arbeitsplatz",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Services numériques",
    "Name": "Services numériques",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Processus numériques",
    "Name": "Processus numériques",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Digital Cooperation",
    "Name": "Digital Cooperation",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Digitale Kooperation",
    "Name": "Digitale Kooperation",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Digitale Organisation",
    "Name": "Digitale Organisation",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Coopération numérique",
    "Name": "Coopération numérique",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Digitale Kompetenzen",
    "Name": "Digitale Kompetenzen",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Digital Competencies",
    "Name": "Digital Competencies",
-   "subjects": ""
+   "subjects": []
  },
  {
    "id": "Digitale Prozesse",
    "Name": "Digitale Prozesse",
-   "subjects": ""
+   "subjects": []
  }
 ],
   "Categories": [
@@ -159,7 +159,7 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
-   "SubCategories": "[]"
+   "SubCategories": []
  },
  {
    "id": "Autoevaluación del desarrollo de las habilidades digitales",
@@ -168,7 +168,7 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
-   "SubCategories": "[]"
+   "SubCategories": []
  },
  {
    "id": "Auto-évaluation des compétences numériques",
@@ -177,7 +177,7 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
-   "SubCategories": "[]"
+   "SubCategories": []
  },
  {
    "id": "Buena comunicación virtual",
@@ -186,7 +186,7 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
-   "SubCategories": "[]"
+   "SubCategories": []
  },
  {
    "id": "Conception de l'environnement de travail numérique",
@@ -195,7 +195,7 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
-   "SubCategories": "[]"
+   "SubCategories": []
  },
  {
    "id": "Constructive Feedback",
@@ -204,7 +204,7 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
-   "SubCategories": "[]"
+   "SubCategories": []
  },
  {
    "id": "Cooperación en el ecosistema digital",
@@ -213,7 +213,7 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
-   "SubCategories": "[]"
+   "SubCategories": []
  },
  {
    "id": "Coopération dans l'écosystème numérique",
@@ -222,7 +222,7 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
-   "SubCategories": "[]"
+   "SubCategories": []
  },
  {
    "id": "Cooperation in the Digital Ecosystem",
@@ -231,7 +231,7 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
-   "SubCategories": "[]"
+   "SubCategories": []
  },
  {
    "id": "Desarrollo de competencias y personal",
@@ -240,7 +240,7 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
-   "SubCategories": "[]"
+   "SubCategories": []
  },
  {
    "id": "Développement des compétences stratégiques",
@@ -249,7 +249,7 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
-   "SubCategories": "[]"
+   "SubCategories": []
  },
  {
    "id": "Digital Project Management",
@@ -258,7 +258,7 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
-   "SubCategories": "[]"
+   "SubCategories": []
  },
  {
    "id": "Diseño de la innovación",
@@ -267,7 +267,7 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
-   "SubCategories": "[]"
+   "SubCategories": []
  },
  {
    "id": "Diseño del entorno de trabajo digital",
@@ -276,7 +276,7 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
-   "SubCategories": "[]"
+   "SubCategories": []
  }
 ],
   "Audiences": [
