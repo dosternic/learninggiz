@@ -158,7 +158,7 @@
    "Image": "",
    "TechnologyID": "",
    "SubjectID": "",
-   "Source": "",
+   "Source": "GIZ",
    "SubCategories": []
  },
  {
@@ -167,7 +167,7 @@
    "Image": "",
    "TechnologyID": "",
    "SubjectID": "",
-   "Source": "",
+   "Source": "GIZ",
    "SubCategories": []
  },
  {
@@ -176,7 +176,7 @@
    "Image": "",
    "TechnologyID": "",
    "SubjectID": "",
-   "Source": "",
+   "Source": "GIZ",
    "SubCategories": []
  },
  {
@@ -185,7 +185,16 @@
    "Image": "",
    "TechnologyID": "",
    "SubjectID": "",
-   "Source": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Buena comunicación virtual",
+   "Name": "Buena comunicación virtual",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
    "SubCategories": []
  },
  {
@@ -194,7 +203,7 @@
    "Image": "",
    "TechnologyID": "",
    "SubjectID": "",
-   "Source": "",
+   "Source": "GIZ",
    "SubCategories": []
  },
  {
@@ -203,7 +212,7 @@
    "Image": "",
    "TechnologyID": "",
    "SubjectID": "",
-   "Source": "",
+   "Source": "GIZ",
    "SubCategories": []
  },
  {
@@ -212,7 +221,7 @@
    "Image": "",
    "TechnologyID": "",
    "SubjectID": "",
-   "Source": "",
+   "Source": "GIZ",
    "SubCategories": []
  },
  {
@@ -221,7 +230,7 @@
    "Image": "",
    "TechnologyID": "",
    "SubjectID": "",
-   "Source": "",
+   "Source": "GIZ",
    "SubCategories": []
  },
  {
@@ -230,7 +239,7 @@
    "Image": "",
    "TechnologyID": "",
    "SubjectID": "",
-   "Source": "",
+   "Source": "GIZ",
    "SubCategories": []
  },
  {
@@ -239,7 +248,25 @@
    "Image": "",
    "TechnologyID": "",
    "SubjectID": "",
-   "Source": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Desarrollo estratégico de capacidades",
+   "Name": "Desarrollo estratégico de capacidades",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Designing the Digital Work Environment",
+   "Name": "Designing the Digital Work Environment",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
    "SubCategories": []
  },
  {
@@ -248,7 +275,16 @@
    "Image": "",
    "TechnologyID": "",
    "SubjectID": "",
-   "Source": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Développement du personnel et des compétences dans le cadre du changement numérique",
+   "Name": "Développement du personnel et des compétences dans le cadre du changement numérique",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
    "SubCategories": []
  },
  {
@@ -257,7 +293,7 @@
    "Image": "",
    "TechnologyID": "",
    "SubjectID": "",
-   "Source": "",
+   "Source": "GIZ",
    "SubCategories": []
  },
  {
@@ -266,7 +302,7 @@
    "Image": "",
    "TechnologyID": "",
    "SubjectID": "",
-   "Source": "",
+   "Source": "GIZ",
    "SubCategories": []
  },
  {
@@ -275,7 +311,439 @@
    "Image": "",
    "TechnologyID": "",
    "SubjectID": "",
-   "Source": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "EINFÜHRUNG IN DIE GIZ IT",
+   "Name": "EINFÜHRUNG IN DIE GIZ IT",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Feedback constructif",
+   "Name": "Feedback constructif",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "GESTALTUNG DER DIGITALEN ARBEITSUMGEBUNG ",
+   "Name": "GESTALTUNG DER DIGITALEN ARBEITSUMGEBUNG ",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Gestion de l'innovation",
+   "Name": "Gestion de l'innovation",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Gestion de projets numériques",
+   "Name": "Gestion de projets numériques",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Gestión de proyectos digitales",
+   "Name": "Gestión de proyectos digitales",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "GESUNDHEIT AM DIGITALEN ARBEITSPLATZ ",
+   "Name": "GESUNDHEIT AM DIGITALEN ARBEITSPLATZ ",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Good virtual communication",
+   "Name": "Good virtual communication",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "GUTE VIRTUELLE KOMMUNIKATION",
+   "Name": "GUTE VIRTUELLE KOMMUNIKATION",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Health in the Digital Workplace",
+   "Name": "Health in the Digital Workplace",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Información de retorno constructiva",
+   "Name": "Información de retorno constructiva",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Introducción a las TI de la GIZ",
+   "Name": "Introducción a las TI de la GIZ",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Introduction à GIZ IT",
+   "Name": "Introduction à GIZ IT",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Introduction to GIZ IT",
+   "Name": "Introduction to GIZ IT",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "IT Security and Data Protection",
+   "Name": "IT Security and Data Protection",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "IT-SICHERHEIT UND DATENSCHUTZ",
+   "Name": "IT-SICHERHEIT UND DATENSCHUTZ",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "KONSTRUKTIVES FEEDBACK",
+   "Name": "KONSTRUKTIVES FEEDBACK",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "KOOPERATION IM DIGITALEN ÖKOSYSTEM",
+   "Name": "KOOPERATION IM DIGITALEN ÖKOSYSTEM",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "La santé sur le poste de travail numérique",
+   "Name": "La santé sur le poste de travail numérique",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "L'actualité du changement numérique (le GIZ)",
+   "Name": "L'actualité du changement numérique (le GIZ)",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Lenguaje digital",
+   "Name": "Lenguaje digital",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Moderación de reuniones virtuales",
+   "Name": "Moderación de reuniones virtuales",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Modération de réunions virtuelles",
+   "Name": "Modération de réunions virtuelles",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "MODERATION VIRTUELLER MEETINGS ",
+   "Name": "MODERATION VIRTUELLER MEETINGS ",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "NEUE AUFGABEN UND JOBS",
+   "Name": "NEUE AUFGABEN UND JOBS",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "New Tasks and Jobs",
+   "Name": "New Tasks and Jobs",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Nouvelles tâches, nouveaux rôles et nouveaux emplois",
+   "Name": "Nouvelles tâches, nouveaux rôles et nouveaux emplois",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Nuevas tareas y perfiles profesionales",
+   "Name": "Nuevas tareas y perfiles profesionales",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Parlez Numérique",
+   "Name": "Parlez Numérique",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "PERSONAL- UND KOMPETENZENTWICKLUNG",
+   "Name": "PERSONAL- UND KOMPETENZENTWICKLUNG",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "PERSONAL- UND KOMPETENZENTWICKLUNG ",
+   "Name": "PERSONAL- UND KOMPETENZENTWICKLUNG ",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Personnel and Competency Development",
+   "Name": "Personnel and Competency Development",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Potenciales y riesgos de la digitalización",
+   "Name": "Potenciales y riesgos de la digitalización",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Potentiels et risques de la numérisation pour le développement durable",
+   "Name": "Potentiels et risques de la numérisation pour le développement durable",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Principes numériques et numérique par défaut",
+   "Name": "Principes numériques et numérique par défaut",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Salud en el puesto de trabajo digital",
+   "Name": "Salud en el puesto de trabajo digital",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Sécurité informatique et vie privée",
+   "Name": "Sécurité informatique et vie privée",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Seguridad informática y protección de datos",
+   "Name": "Seguridad informática y protección de datos",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "SELBSTEINSCHÄTZUNG DIGITALE KOMPETENZEN",
+   "Name": "SELBSTEINSCHÄTZUNG DIGITALE KOMPETENZEN",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Self-Assessment of Digital Competency Development",
+   "Name": "Self-Assessment of Digital Competency Development",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "SPEAK DIGITAL",
+   "Name": "SPEAK DIGITAL",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Steuerung digitaler Projekte",
+   "Name": "Steuerung digitaler Projekte",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Strategic Competency Development",
+   "Name": "Strategic Competency Development",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "STRATEGISCHE KOMPETENZENTWICKLUNG",
+   "Name": "STRATEGISCHE KOMPETENZENTWICKLUNG",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Une bonne communication et coopération virtuelle",
+   "Name": "Une bonne communication et coopération virtuelle",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "UP-TO-DATE IM DIGITALEN WANDEL ",
+   "Name": "UP-TO-DATE IM DIGITALEN WANDEL ",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Up-to-date on Digital Transformation",
+   "Name": "Up-to-date on Digital Transformation",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
+   "SubCategories": []
+ },
+ {
+   "id": "Up-to-date the Digital Transformation",
+   "Name": "Up-to-date the Digital Transformation",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "GIZ",
    "SubCategories": []
  }
 ],
