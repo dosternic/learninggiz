@@ -335,7 +335,17 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
+   "SubCategories": [
+    {
+   "Name": "Blended Learning Course",
+   "id": "1e22ef71-7f18-41b9-9a28-4724797d1360",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "",
    "SubCategories": []
+ }
+   ]
  },
  {
    "Name": "Cooperación en el ecosistema digital",
