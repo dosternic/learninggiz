@@ -6,10 +6,10 @@
     "LevelId": "",
     "AudienceId": "",
     "TechnologyId": "11250c76-6217-48c0-9227-22f4daee733e",
-    "SubjectId": "5fe53e3e-fce1-4ead-a976-e355908bfd6a",
+    "SubjectId": "",
     "Source": "SOC",
-    "CatId": "",
-    "Description": "",
+    "CatId": "5fe53e3e-fce1-4ead-a976-e355908bfd6a",
+    "Description": "Test Description",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
