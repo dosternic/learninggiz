@@ -11,7 +11,7 @@
     "CatId": "5fe53e3e-fce1-4ead-a976-e355908bfd6a",
     "Description": "Test Description",
     "StatusTagId": "",
-    "StatusNote": "",
+    "StatusNote": null,
     "Assets": [
       "ec96a0b9-8ea2-4258-815f-3ce382dec957",
 "71cdccdc-2af4-438b-97e5-e907154fbae6",
