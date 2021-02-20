@@ -224,7 +224,17 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
+   "SubCategories": [
+    {
+   "Name": "Quiz ",
+   "id": "c74a3877-becd-4bd8-8a7a-a16442e36508",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "",
    "SubCategories": []
+ }
+   ]
  },
  {
    "Name": "Buena comunicación virtual",
@@ -233,7 +243,44 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
+   "SubCategories": [
+   {
+   "Name": "Video (digital)",
+   "id": "11d2ff30-3732-4165-aa7b-d2994aa0438c",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "",
    "SubCategories": []
+ },
+ {
+   "Name": "Curso en línea",
+   "id": "e56f3c27-1bbd-4c0d-8991-d7027c72dbf2",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "",
+   "SubCategories": []
+ },
+ {
+   "Name": "Presentacion",
+   "id": "561fc74d-2c80-458b-9826-e3ff4c25886d",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "",
+   "SubCategories": []
+ },
+        {
+   "Name": "Blog",
+   "id": "67f4c902-476d-4b0e-8445-5143b6ba4baf",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "",
+   "SubCategories": []
+ }
+   ]
  },
  {
    "Name": "Conception de l'environnement de travail numérique",
@@ -242,7 +289,44 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
+   "SubCategories": [
+   {
+   "Name": "Community (digital)",
+   "id": "e7acda44-b201-44e9-959d-189c48be5478",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "",
    "SubCategories": []
+ },
+ {
+   "Name": "Intranet-/Internetbeitrag (digital)",
+   "id": "206b8a2e-14c5-43de-a6bc-609650426b02",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "",
+   "SubCategories": []
+ },
+ {
+   "Name": "Contribution Intranet/Internet",
+   "id": "cb1f9dad-69aa-440f-ac1f-8c5b3ce4e8ea",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "",
+   "SubCategories": []
+ },
+ {
+   "Name": "Événement ou conférence (analogique)",
+   "id": "7f86bf11-dc0f-40f7-a602-79c2184ca646",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "",
+   "SubCategories": []
+ }
+   ]
  },
  {
    "Name": "Constructive Feedback",
