@@ -159,7 +159,26 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
+   "SubCategories": [
+    {
+   "Name": "Contribución en la Intra-/Internet",
+   "id": "6112a771-30f1-4ccf-bc92-16fc3fc71c59",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "",
    "SubCategories": []
+ },
+ {
+   "Name": "Publicación",
+   "id": "eb3fbaaf-3ced-41b1-b92d-57cca2c2f41d",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "",
+   "SubCategories": []
+ }
+   ]
  },
  {
    "Name": "Autoevaluación del desarrollo de las habilidades digitales",
@@ -168,7 +187,35 @@
    "TechnologyID": "",
    "SubjectID": "",
    "Source": "",
+   "SubCategories": [
+   {
+   "Name": "Contribución a la Intranet/Internet (digital)",
+   "id": "7aa1f295-afe9-4c42-82c7-908a0ee14a69",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "",
    "SubCategories": []
+ },
+ {
+   "Name": "Herramienta",
+   "id": "be882769-6141-41ae-9ca9-007ce962cdd0",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "",
+   "SubCategories": []
+ },
+ {
+   "Name": "Test",
+   "id": "2d4a8f48-6d8e-4753-89b6-7aca92eec4a8",
+   "Image": "",
+   "TechnologyID": "",
+   "SubjectID": "",
+   "Source": "",
+   "SubCategories": []
+ }
+   ]
  },
  {
    "Name": "Auto-évaluation des compétences numériques",
