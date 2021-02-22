@@ -1,5 +1,10 @@
 {
   "Technologies": [
+     {
+       "Id": "11250c76-6217-48c0-9227-22f4daee733e",
+   "Name": "Procesos digitales",
+   "Subjects": []
+     },
     {
       "Id": "c9c28837-e941-4e91-b0df-c41a7d3f412a",
       "Name": "Excel",
