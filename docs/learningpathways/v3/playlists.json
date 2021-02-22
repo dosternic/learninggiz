@@ -16,6 +16,23 @@
       "28dad67b-adb8-4df5-822b-677d81968eda"
     ]
   },
+    {
+    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
+    "Title": "Procesos Digitales ES",
+    "Image": "images/playlists/share_and_coauthor.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "71ec9903-1498-49e2-8514-428e35617b18",
+    "TechnologyId": "11250c76-6217-48c0-9227-22f4daee733e",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
+    "Description": "Proces Desigeso.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "ec96a0b9-8ea2-4258-815f-3ce382dec957"
+    ]
+  },
   {
     "Id": "d9ce4776-272c-4b62-8f17-d71326e71230",
     "Title": "Getting started with Microsoft Forms",
