@@ -12,6 +12,9 @@
     "Description": "Test Description",
     "StatusTagId": "",
     "StatusNote": null,
-    "Assets": []
+    "Assets": ["ec96a0b9-8ea2-4258-815f-3ce382dec957",
+              "71cdccdc-2af4-438b-97e5-e907154fbae6",
+              "226f066b-1e71-4ab7-a612-4f43bf161151",
+              "9db33af9-500b-408f-a306-7ee4f1c82a4e"]
   }
 ]
