@@ -1,13 +1,24 @@
 [
- {
-   "id": "ec96a0b9-8ea2-4258-815f-3ce382dec957",
-   "Title": "Digital Change in GIZ",
-   "Description": "The intranet site of the Strategic Project Digital Change offers all necessary information on digital change within the GIZ with video tutorials and jumps to more detailed documents and information.",
-   "Url": "https://intranet.giz.de/cps/rde/xchg/giz_intranet_en/XSL/hs.xsl/-/HTML/186893.htm",
-   "TechnologyID": "11250c76-6217-48c0-9227-22f4daee733e",
-   "SubjectId": "",
-   "Source": "GIZ",
-   "StatusTagId": "",
-   "StatusNote": ""
- }
+  {
+    "Id": "28dad67b-adb8-4df5-822b-677d81968eda",
+    "Title": "Add Text and Tables to your modern page",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/add-text-and-tables-to-your-page-with-the-text-web-part-729c0aa1-bc0d-41e3-9cde-c60533f2c801?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "ecee7e26-7ac3-41b2-8d06-90843e3ec7a7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "39a23830-452d-474c-ae1f-47a6ebefa21a",
+    "Title": "Create a form",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/39a23830-452d-474c-ae1f-47a6ebefa21a?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "309b4120-9366-4257-bc06-1d9dd090fe85",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }
 ]
