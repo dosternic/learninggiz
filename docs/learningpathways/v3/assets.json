@@ -20,27 +20,5 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
-  },
-    {
-    "Id": "94b00f50-5896-479c-b0c5-ff74603b35a3",
-    "Title": "Create a workbook in Excel",
-    "Description": "",
-    "Url": "https://support.office.com/en-us/client/94b00f50-5896-479c-b0c5-ff74603b35a3?embed=true",
-    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-   {
-   "id": "ec96a0b9-8ea2-4258-815f-3ce382dec957",
-   "Title": "Digital Change in GIZ",
-   "Description": "The intranet site of the Strategic Project Digital Change offers all necessary information on digital change within the GIZ with video tutorials and jumps to more detailed documents and information.",
-   "Url": "https://support.office.com/en-us/client/39a23830-452d-474c-ae1f-47a6ebefa21a?embed=true&ns=trainingservices&version=1",
-   "TechnologyID": "11250c76-6217-48c0-9227-22f4daee733e",
-   "SubjectId": "",
-   "Source": "Microsoft",
-   "StatusTagId": "",
-   "StatusNote": ""
- }
+  }
 ]
