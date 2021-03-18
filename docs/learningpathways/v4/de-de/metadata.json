@@ -157,6 +157,79 @@
         }
       ]
     },
+            {
+      "Id": "43da0222-1614-4da3-bb08-444216028418",
+      "Name": "Digital Literacy",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        {
+          "Id": "436a9cf4-5bce-434d-a607-0aebc5cb79aa",
+          "Name": "Digitale Prozesse",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+                {
+          "Id": "29137645-d369-44c1-8a64-c52661a2a095",
+          "Name": "Digitale Basis",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+                {
+          "Id": "8f873dba-ad8e-4b45-b961-a1fd84fcdc18",
+          "Name": "Digitale Kooperation",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+                {
+          "Id": "2ed2d2ef-372e-492d-bfdf-bb3405d01676",
+          "Name": "Digitale Kompetenzen",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+                {
+          "Id": "d12d5956-9e3f-4f52-a02a-53e0d19694c0",
+          "Name": "Digitale Führung",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+                {
+          "Id": "b0725d24-c58e-4127-a2c9-c88470d764f6",
+          "Name": "Digitale Organisation",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "a00317bc-2819-47c9-a55b-ab8b85c4e2e1",
+          "Name": "Digitaler Arbeitsplatz",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    },
         {
       "Id": "43da0222-1614-4da3-bb08-444216028418",
       "Name": "Digitale Prozesse",
