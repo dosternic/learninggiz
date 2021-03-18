@@ -159,15 +159,60 @@
     },
         {
       "Id": "43da0222-1614-4da3-bb08-444216028418",
-      "Name": "Digital Processes",
+      "Name": "Digital Literacy",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Microsoft",
       "SubCategories": [
         {
-          "Id": "0d90c592-90b2-43a1-8163-94218ae2eabb",
-          "Name": "Processes Sub 1",
+          "Id": "436a9cf4-5bce-434d-a607-0aebc5cb79aa",
+          "Name": "Digital Processes",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+                {
+          "Id": "29137645-d369-44c1-8a64-c52661a2a095",
+          "Name": "Digital Basis",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+                {
+          "Id": "8f873dba-ad8e-4b45-b961-a1fd84fcdc18",
+          "Name": "Digital Cooperation",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+                {
+          "Id": "2ed2d2ef-372e-492d-bfdf-bb3405d01676",
+          "Name": "Digital Competencies",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+                {
+          "Id": "d12d5956-9e3f-4f52-a02a-53e0d19694c0",
+          "Name": "Digital Leadership",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+                {
+          "Id": "b0725d24-c58e-4127-a2c9-c88470d764f6",
+          "Name": "Digital Organisation",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": null,
@@ -175,8 +220,8 @@
           "SubCategories": []
         },
         {
-          "Id": "51efd68c-e1ba-43ed-b41a-1f53d79be1bd",
-          "Name": "Processes Sub 2",
+          "Id": "a00317bc-2819-47c9-a55b-ab8b85c4e2e1",
+          "Name": "Digital Workplace",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": null,
