@@ -203,7 +203,7 @@
         {
           "Id": "436a9cf4-5bce-434d-a607-0aebc5cb79aa",
           "Name": "Digital Processes",
-          "Image": "images/categories/first_days.png",
+          "Image": "images/categories/digitalprocesses.jpg",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Microsoft",
@@ -212,7 +212,7 @@
                 {
           "Id": "29137645-d369-44c1-8a64-c52661a2a095",
           "Name": "Digital Basis",
-          "Image": "images/categories/first_days.png",
+          "Image": "images/categories/digitalchange.jpg",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Microsoft",
