@@ -8281,5 +8281,71 @@
     "Source": "SOC",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "New"
+  },
+  {
+    "id": "b8f9ee6b-ca44-49b5-83db-74aa7d0c584a",
+    "Title": "Help-Each-Other Wiki",
+    "Description": "Eine IDA.Community, die als Austauschplattform für Themen wie z.B. Microsoft Teams, Microsoft Planner, Room Owner, IDA Projects, IDA Communities dient. Hier findest Du Hilfe und kannst Dein Wissen an andere weitergeben.",
+    "url": "https://gizonline.sharepoint.com/sites/beezy/groups/7/Pages/Wiki/IDA.Wiki.aspx",
+    "TechnologyID": "54af8e6c-c7f6-479d-b854-bf52b0b99ae4",
+    "SubjectId": "",
+    "Source": "GIZ",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "id": "722facc7-634a-40dd-ac1d-135003f4f3f9",
+    "Title": "Kurs zur digitalen Kultur bei Microsoft",
+    "Description": "Folgende Kurse vermitteln grundlegendes Wissen zu Computerkonzepten und -kenntnissen, um Computertechnologie für den Alltagsgebrauch anwenden zu können.\nVerfügbare Kurse:\n- Grundlagen;\n- Internet, Cloud, Web; \n- Produktivitätsprogramme;\n- Computersicherheit und Datenschutz; \n- Leben in der digitalen Welt",
+    "url": "https://www.microsoft.com/de-de/DigitalLiteracy/default.aspx",
+    "TechnologyID": "54af8e6c-c7f6-479d-b854-bf52b0b99ae4",
+    "SubjectId": "",
+    "Source": "EXT",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "id": "aad4b918-b55e-4096-a826-815f56e40a21",
+    "Title": "Digital Pioneer Community",
+    "Description": "Die Digital Pioneer Community auf IDA beinhaltet viele Lerninhalte, sowie eine Lerncaféserie (Webinare) für Digital Pioneers.",
+    "url": "https://gizonline.sharepoint.com/sites/beezy/groups/1160/SitePages/Init.aspx",
+    "TechnologyID": "54af8e6c-c7f6-479d-b854-bf52b0b99ae4",
+    "SubjectId": "",
+    "Source": "GIZ",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "id": "ee8ad46d-a743-459d-a9a6-1f719d37d9ca",
+    "Title": "Data Protection WBT",
+    "Description": "In diesem verpflichtenden webbasierten Training erhältst Du grundlegende Informationen darüber, wie Sie gefährliche E-Mails und Internetseiten erkennen können. Dies erfolgt zunächst mit einem kurzen theoretischen Input. In Quizfragen können Sie Ihr Wissen prüfen.",
+    "url": "https://www.learning-giz.de/",
+    "TechnologyID": "54af8e6c-c7f6-479d-b854-bf52b0b99ae4",
+    "SubjectId": "",
+    "Source": "GIZ",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "id": "d2c3efb1-dff1-4a1a-a25c-2dd49aceda7d",
+    "Title": "Umgang mit bösartigen E-Mails / Sicheres Surfen im Internet",
+    "Description": "In diesem verpflichtenden webbasierten Training erhältst Du grundlegende Informationen darüber, wie Sie gefährliche E-Mails und Internetseiten erkennen können. Dies erfolgt zunächst mit einem kurzen theoretischen Input. In Quizfragen können Sie Ihr Wissen prüfen.",
+    "url": "https://www.learning-giz.de/pub/Umgang-mit-boesartigen-E-Mails-Sicheres-Surfen-im-/id/19.9235.3-016.00",
+    "TechnologyID": "54af8e6c-c7f6-479d-b854-bf52b0b99ae4",
+    "SubjectId": "",
+    "Source": "GIZ",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "id": "c5bfc932-8da4-4f06-9bf0-0f94fa54f9ad",
+    "Title": "GIZ Handreichung zur IT-Sicherheit",
+    "Description": "Die GIZ-Handreichung ist eine kurze Einführung in die Sicherheitsstandards der GIZ (z.B. Phishing E-Mails, Passwortmanagement). Du kannst hier einen monatlichen E-Mail IT-Sicherheitstipp abonnieren und zu Informationsseiten der GIZ und externen Informationsquellen gelangen.",
+    "url": "https://phishing-info.giz.de/phishing_info.php",
+    "TechnologyID": "54af8e6c-c7f6-479d-b854-bf52b0b99ae4",
+    "SubjectId": "",
+    "Source": "GIZ",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
 ]
