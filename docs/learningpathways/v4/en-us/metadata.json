@@ -221,7 +221,7 @@
                 {
           "Id": "8f873dba-ad8e-4b45-b961-a1fd84fcdc18",
           "Name": "Digital Cooperation",
-          "Image": "images/categories/first_days.png",
+          "Image": "images/categories/digitalcooperation.jpg",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Microsoft",
@@ -230,7 +230,7 @@
                 {
           "Id": "2ed2d2ef-372e-492d-bfdf-bb3405d01676",
           "Name": "Digital Competencies",
-          "Image": "images/categories/first_days.png",
+          "Image": "images/categories/digitalcompetencies.jpg",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Microsoft",
@@ -239,7 +239,7 @@
                 {
           "Id": "d12d5956-9e3f-4f52-a02a-53e0d19694c0",
           "Name": "Digital Leadership",
-          "Image": "images/categories/first_days.png",
+          "Image": "images/categories/digitalleadership.jpg",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Microsoft",
@@ -248,7 +248,7 @@
                 {
           "Id": "b0725d24-c58e-4127-a2c9-c88470d764f6",
           "Name": "Digital Organisation",
-          "Image": "images/categories/first_days.png",
+          "Image": "images/categories/digitalorganisation.jpg",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Microsoft",
@@ -257,7 +257,7 @@
         {
           "Id": "a00317bc-2819-47c9-a55b-ab8b85c4e2e1",
           "Name": "Digital Workplace",
-          "Image": "images/categories/recommended.png",
+          "Image": "images/categories/digitalworkplace.jpg",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Microsoft",
