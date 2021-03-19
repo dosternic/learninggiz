@@ -139,7 +139,7 @@
   },
   {
     "Id": "b6c7a90e-0642-4c7d-8f41-7935a5f753a8",
-    "Name": "Digital Workspace",
+    "Name": "Digital Workplace",
     "Subjects": []
   },
   {
@@ -257,7 +257,7 @@
         {
           "Id": "a00317bc-2819-47c9-a55b-ab8b85c4e2e1",
           "Name": "Digital Workplace",
-          "Image": "images/categories/digitalworkplace.jpg",
+          "Image": "images/categories/digitalworkplace.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Microsoft",
