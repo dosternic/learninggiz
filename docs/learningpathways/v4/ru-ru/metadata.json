@@ -126,7 +126,42 @@
       "Id": "944d9b59-7c3c-49cf-8ca5-a029ae3bd9c2",
       "Name": "Office в Интернете",
       "Subjects": []
-    }
+    },
+       {
+    "Id": "f46a4a47-21db-4e7e-9444-35b44e0dc63f",
+    "Name": "Digitale Führung",
+    "Subjects": []
+  },
+  {
+    "Id": "54af8e6c-c7f6-479d-b854-bf52b0b99ae4",
+    "Name": "Digitale Basis",
+    "Subjects": []
+  },
+  {
+    "Id": "b6c7a90e-0642-4c7d-8f41-7935a5f753a8",
+    "Name": "Digitaler Arbeitsplatz",
+    "Subjects": []
+  },
+  {
+    "Id": "6fd97209-8079-434a-b419-f7770254e63c",
+    "Name": "Digitale Kooperation",
+    "Subjects": []
+  },
+  {
+    "Id": "6da5d563-623f-4164-99c3-2231812268e5",
+    "Name": "Digitale Organisation",
+    "Subjects": []
+  },
+  {
+    "Id": "7b952a57-27d7-4f37-8c7d-7947515511ee",
+    "Name": "Digitale Kompetenzen",
+    "Subjects": []
+  },
+  {
+    "Id": "4b121df5-af53-4ace-a0f8-54ac778eb028",
+    "Name": "Digitale Prozesse",
+    "Subjects": []
+  }
   ],
   "Categories": [
     {
